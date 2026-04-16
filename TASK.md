@@ -7,7 +7,7 @@
 #### - To verify that your model works as intended, in the main method, create an instance of the Car class and call its move() method. You should see "Car is moving" on the screen.
 
 ```java
-public class Solution {
+public class TrafficLauncherApp {
     public static void main(String[] args) {
         // Polymorphism: a variable of type Vehicle refers to a Car object
         Vehicle car = new Car();
